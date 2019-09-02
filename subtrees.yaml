@@ -1,4 +1,4 @@
 ---
 subtrees:
-  untangle-python-sync-settings: git@github.com:untangle/sync-settings.git
-  untangle-python-runtests: git@github.com:untangle/runtests.git
+  untangle-python-sync-settings: git@github.com:cryolithic/sync-settings.git
+  untangle-python-runtests: git@github.com:cryolithic/runtests.git
